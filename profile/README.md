@@ -1,6 +1,5 @@
 ## Open Source Sri Lanka (ProjectOSS)
 
-#### Quick note on 3rd party integrations
 > _Code for a better tomorrow _
 
 ### What is Open Source Sri Lanka
